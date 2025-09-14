@@ -1,6 +1,4 @@
 <h1 align="center">Oi, eu sou Paulo</h1>
-🌱 Aprofundando meus conhecimentos em: Java, Python, HTML, CSS, SQL e outras linguagens
-
 📫 Você pode me contatar através do meu e-mail: **pauloandreolivs@gmail.com**
 
 <h3 align="left">Estatísticas:</h3>
